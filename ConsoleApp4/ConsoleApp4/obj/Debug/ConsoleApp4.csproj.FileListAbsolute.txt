@@ -1,0 +1,7 @@
+c:\users\creep\onedrive\документы\visual studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+c:\users\creep\onedrive\документы\visual studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+c:\users\creep\onedrive\документы\visual studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+c:\users\creep\onedrive\документы\visual studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+c:\users\creep\onedrive\документы\visual studio 2017\Projects\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.dll
+c:\users\creep\onedrive\документы\visual studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+c:\users\creep\onedrive\документы\visual studio 2017\Projects\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
